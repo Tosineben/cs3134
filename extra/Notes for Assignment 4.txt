@@ -1,0 +1,25 @@
+
+IO.java
+
+stdin, stdout, stderr
+
+//returns true if "yn" starts with a y or Y
+static boolean affirmative (String yn)
+
+//reads an entire file into a single string
+static String readFile(String name)
+
+//prints out "s", then returns prompted input
+//as a String via stdin
+static String prompt(String s)
+_____________________________________________________
+
+
+
+
+_____________________________________________________
+
+
+
+
+_____________________________________________________
